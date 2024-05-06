@@ -1,0 +1,47 @@
+_repo: Les-oiseaux-bleus_73384
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mendès, Catulle
+    aliases:
+    - Mendes, Catulle
+    - Mendès, Catulles
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '6188'
+    url: http://www.gutenberg.org/2009/agents/6188
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Catulle_Mend%C3%A8s
+    - https://fr.wikipedia.org/wiki/Catulle_Mend%C3%A8s
+description: ''
+gutenberg_issued: '2024-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73384'
+language: fr
+pgterms:marc904: http://archive.org/details/lesoiseauxbleus00mend
+pgterms:marc905: 20230909092636mends
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bVictor-Havard, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Le Soir d'une fleur -- La Belle du monde -- La Bonne Trouvaille --
+  La Belle au bois rêvant -- Le Vœu maladroit -- Isoline-Isolin -- Le Miroir -- La
+  Princesse Oiselle -- Le Chemin du Paradis -- Les Baisers d'or -- Les Accordailles
+  -- Le Mauvais Convive -- La Tire-lire -- La Bonne Récompense -- Les Mots perdus
+  -- La Mémoire du cœur -- Les Trois Bonnes Fées -- Le Ramasseur de bonnets -- Les
+  Trois Semeurs -- La Belle au cœur de neige -- Les Deux Marguerites -- L'Ange boiteux
+  -- Les Traîtrises de Puck -- Les Larmes sur l'épée -- La Petite Flamme bleue --
+  Martine et son Ange -- La Dernière Fée.
+title: Les oiseaux bleus
+url: http://www.gutenberg.org/ebooks/73384
