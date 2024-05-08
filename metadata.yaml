@@ -1,5 +1,8 @@
 _repo: Les-oiseaux-bleus_73384
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73384-h/images/cover.jpg
 creator:
   author:
     agent_name: Mendès, Catulle
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Catulle_Mend%C3%A8s
     - https://fr.wikipedia.org/wiki/Catulle_Mend%C3%A8s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73384#Les-oiseaux-bleus
 gutenberg_issued: '2024-04-12'
 gutenberg_type: Text
 identifiers:
